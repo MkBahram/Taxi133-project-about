@@ -1,7 +1,12 @@
 # Taxi 133 Project
 ## _Operator & Admin Dashboard + Driver Application_
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="32"/>
 
+### Frameworks used for this project :
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="32"/>
+
+### Description
 This project has 2 dashboards for Admin & Operators to handling online cab services.
 
 ![alt Operator Dashboard](https://raw.githubusercontent.com/MkBahram/Taxi133-project-about/main/images/operator-dashboard.png)
