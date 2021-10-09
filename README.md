@@ -1,6 +1,6 @@
 # Taxi 133 Project
 ## _Operator & Admin Dashboard + Driver Application_
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="32"/>
 
 This project has 2 dashboards for Admin & Operators to handling online cab services.
 
@@ -30,4 +30,4 @@ The routin for take a services and handle it to drivers are described in below :
 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="98"/>
+
