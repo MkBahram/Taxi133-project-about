@@ -4,7 +4,7 @@
 
 This project has 2 dashboards for Admin & Operators to handling online cab services.
 
-![alt text](https://github.com/MkBahram/Taxi133-project-about/blob/main/operator-dashboard.png?raw=true)
+![alt Operator Dashboard](https://raw.githubusercontent.com/MkBahram/Taxi133-project-about/main/images/operator-dashboard.png)
 
 The routin for take a services and handle it to drivers are described in below :
 
