@@ -1,20 +1,10 @@
-<style>
-ul{
-  list-style:none;
-}
-ul > li{
-  display:inline-block; 
-}
-</style>
 # Taxi 133 Project
 ## _Operator & Admin Dashboard + Driver Application_
 
 ### Frameworks used for this project :
-<ul>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="32"/></li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="32"/></li>
-<li><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="32"/></li>
-</ul>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="32"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="32"/><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="32"/>
+
 ### Description
 This project has 2 dashboards for Admin & Operators to handling online cab services.
 
