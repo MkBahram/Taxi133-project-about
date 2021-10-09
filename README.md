@@ -1,8 +1,16 @@
+<style>
+ul{
+  list-style:none;
+}
+ul > li{
+  display:inline-block; 
+}
+</style>
 # Taxi 133 Project
 ## _Operator & Admin Dashboard + Driver Application_
 
 ### Frameworks used for this project :
-<ul style="display:inline-block;list-style:none;">
+<ul>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="32"/></li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="32"/></li>
 <li><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="32"/></li>
